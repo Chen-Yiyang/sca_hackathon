@@ -126,6 +126,7 @@ env/
 venv/
 ENV/
 env.bak/
+i
 venv.bak/
 
 # Spyder project settings
@@ -161,4 +162,5 @@ cython_debug/
 
 # Project related
 Model/Datasets/
-
+Model/checkpoints/
+Model/vision/
